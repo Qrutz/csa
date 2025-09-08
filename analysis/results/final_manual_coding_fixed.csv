@@ -340,9 +340,7 @@ Graphic violence or gore
 Sexual content involving minors or exploitation
 Abusive, hateful, or demeaning material
 Realistic depictions of abuse, crime, or trauma",Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; hate_speech,Y,Systematically coded
-P45,Q11_describe,"What I appreciate most is when a task post includes a solid, checkable brief: clear deliverables, milestones, due dates, required skills, and any constraints (budget, format, language, etc.).
-When acceptance criteria are explicit, it's much easier to know when I've "done enough" to get paid. I like when there's a defined acceptance process (e.g., a client signs off after reviewing a milestone, or there's a checklist that must be satisfied before a task is marked complete).
-I'm less happy when posts are vague. If I have to guess what "done" looks like, I end up delivering something the client didn't want, or I delay submitting work while I chase clarifications. A good platform helps by prompting the client to fill in key fields or by offering a standard template for acceptance criteria.",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
+P45,Q11_describe,"What I appreciate most is when a task post includes a solid, checkable brief: clear deliverables, milestones, due dates, required skills, and any constraints (budget, format, language, etc.). When acceptance criteria are explicit, it's much easier to know when I've done enough to get paid. I like when there's a defined acceptance process. I'm less happy when posts are vague. If I have to guess what done looks like, I end up delivering something the client didn't want, or I delay submitting work while I chase clarifications. A good platform helps by prompting the client to fill in key fields or by offering a standard template for acceptance criteria.",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
 P45,Q12_challenges,"Ambiguity in rules and task instructions
 
 Guidelines are often unclear or change without clear communication.
