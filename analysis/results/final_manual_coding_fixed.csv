@@ -9,8 +9,8 @@ P02,Q7_explain,The pay is stable and fair,Compensation & Economic Security,Posit
 P02,Q11_describe,The system is very clear as it awaits review for ratings,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P02,Q12_challenges,it is just the pressure which is manageable,Task Design & Time Pressure,Time pressure and constraints,work_pressure,N,Manually coded
 P02,Q13_improvements,Already the platform is fair,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
-P03,Q7_explain,the tasks are usually very quick and simple,Compensation & Economic Security,General compensation issues,,N,Manually coded
-P03,Q9_followup,the survey was unfairly rejecting participants based on attention checks that were not allowed under the platform's rules,Compensation & Economic Security,Positive compensation experience,unfair_pay,Y,Systematically coded
+P03,Q7_explain,the tasks are usually very quick and simple,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
+P03,Q9_followup,the survey was unfairly rejecting participants based on attention checks that were not allowed under the platform's rules,Compensation & Economic Security,Effort-pay mismatch,unfair_pay,Y,Systematically coded
 P03,Q10_effects,"I was warned, the survey included discussions of drug use and had a link to a support line",Content Exposure & Emotional Load,Support system challenges,support_issues,N,Systematically coded
 P03,Q11_describe,some of the reviews take a very long time to process very short tasks,Transparency & QA,General transparency issues,,N,Manually coded
 P03,Q12_challenges,it is sometimes unclear what the data is being used for,Transparency & QA,Data usage transparency,unclear_processes; clear_processes,N,Manually coded
@@ -22,20 +22,20 @@ P04,Q11_describe,the acceptance is fair and the rating system is good.,Transpare
 P04,Q12_challenges,sometime there is pressure to some timed task,Task Design & Time Pressure,Time pressure and constraints,work_pressure; time_constraints,N,Manually coded
 P04,Q13_improvements,increasing the amount of pay,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P05,Q7_explain,According to the time i spend doing the work i feel fairly compensated,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
-P05,Q11_describe,I do tasks willingly knowing exactly how much I would be paid,Transparency & QA,General transparency issues,,N,Manually coded
+P05,Q11_describe,I do tasks willingly knowing exactly how much I would be paid,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P05,Q12_challenges,I have never had any problems,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
-P05,Q13_improvements,"TRASPARENT RESERCHERS, BECAUSE SOME RESEARCHERS CHOOSE TO COLLECT DATA AND REJECT SUBMISSIONS AND NOT PAY",Compensation & Economic Security,General compensation issues,,Y,Manually coded
+P05,Q13_improvements,"TRASPARENT RESERCHERS, BECAUSE SOME RESEARCHERS CHOOSE TO COLLECT DATA AND REJECT SUBMISSIONS AND NOT PAY",Transparency & QA,Data usage transparency,unclear_processes,Y,Manually coded
 P06,Q7_explain,I dont accept the tasks because the work is too much for little pay,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P06,Q12_challenges,drawn out work with no time table,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
 P06,Q13_improvements,better pay,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P07,Q7_explain,Estimates are typically inaccurate for how long particular tasks take to complete. Even the stated pay per task is roughly minimum wage or less in a lot of cases.,Compensation & Economic Security,Low pay rates,below_minimum_wage,Y,Manually coded
-P07,Q10_effects,"I recall some surveys on jury trials with mildly harmful content. But the platform always gives warnings on the pre-screen summary page, so there are no surprises.",Content Exposure & Emotional Load,Platform access problems,platform_issues,N,Systematically coded
+P07,Q10_effects,"I recall some surveys on jury trials with mildly harmful content. But the platform always gives warnings on the pre-screen summary page, so there are no surprises.",Content Exposure & Emotional Load,Disturbing content exposure,content_warnings,N,Systematically coded
 P07,Q11_describe,"The platform is generally very good in explaining how tasks need to be completed in order to be accepted. And it's also generally good at explaining payment rules, though the pay rates are usually around minimum wage or less. The platform does pay almost immediately when a cash out is requested.",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
 P07,Q12_challenges,"There have been really no challenges or ethical concerns that I have encountered as a data annotator, other than generally low pay rates.",Compensation & Economic Security,Low pay rates,,Y,Manually coded
 P07,Q13_improvements,More consistent work opportunities and higher pay are the only things I can think of. Communication of the rules has always been generally good and transparent.,Compensation & Economic Security,Effort-pay mismatch,,Y,Manually coded
 P08,Q7_explain,Payment varies by requestor but generally feels fair for the task being required for completion,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P08,Q10_effects,I have encountered some content that people might regard as harmful such as hate speech or sexually explicit material but I do not tend to find I have much of an emotional reaction to this.  The platform usually gives adequate warnings if such content is likely to be present,Content Exposure & Emotional Load,Disturbing content exposure,hate_speech; content_warnings,N,Systematically coded
-P08,Q11_describe,There is little transparency as to how the data will be used and the nature of Prolific only tends to give an outcome for the individual task.  It is possible you may be paid for a task but then removed from a white label group but the mechanics of this are not transparent at all - the work either appears on your dashboard or it does not!,Transparency & QA,Data usage transparency,transparency_positive,Y,Manually coded
+P08,Q11_describe,There is little transparency as to how the data will be used and the nature of Prolific only tends to give an outcome for the individual task.  It is possible you may be paid for a task but then removed from a white label group but the mechanics of this are not transparent at all - the work either appears on your dashboard or it does not!,Transparency & QA,Data usage transparency,unclear_processes,Y,Manually coded
 P08,Q12_challenges,"I have not really experienced any significant challenges to the work, mainly it is a little dull and mundane so maintaining focus can be issue on batch tasks.  I have had no ethical concerns at all.",Task Design & Time Pressure,Task design challenges,work_pressure,Y,Manually coded
 P08,Q13_improvements,"Work to be made available at times when I am free and to be completed at my leisure with a set deadline, rather than needed to be completed as soon as it is made available otherwise it will not be there later.",Task Design & Time Pressure,Task design challenges,time_constraints,Y,Manually coded
 P09,Q7_explain,"I feel fairly compensated because the payment reflects the time and effort required for each task. The wage varies appropriately based on task complexity, more complex tasks offer higher pay, which makes sense and feels balanced.",Compensation & Economic Security,Positive compensation experience,time_effort_reflection,Y,Manually coded
@@ -44,28 +44,28 @@ P09,Q12_challenges,"As a data annotator, one of the biggest challenges is the la
 P09,Q13_improvements,Platforms should ensure wages are proportional to task difficulty and time required. A tiered payment system based on complexity would help,Compensation & Economic Security,Effort-pay mismatch,,Y,Manually coded
 P10,Q7_explain,some task requires a lot of effort as compared to the compensation offered,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P10,Q9_followup,"They said they did not find the data in their system, the platform refused to rectify it but i had proof",Platform Reliability & Access,Platform access problems,platform_issues,N,Systematically coded
-P10,Q10_effects,"human operation,no warnings were given",Content Exposure & Emotional Load,,,N,Systematically coded
-P10,Q11_describe,"rating systems is not transparent, we get rejections that reseachers fail to justify",Transparency & QA,Opaque rejection processes,rejection_issues; rating_issues; transparency_positive,N,Manually coded
+P10,Q10_effects,"human operation,no warnings were given",Content Exposure & Emotional Load,Disturbing content exposure,content_warnings,N,Systematically coded
+P10,Q11_describe,"rating systems is not transparent, we get rejections that reseachers fail to justify",Transparency & QA,Opaque rejection processes,rejection_issues; rating_issues,N,Manually coded
 P10,Q12_challenges,payments issues,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P10,Q13_improvements,"i need fair payment, the other time i got 70 images to annotate for a fee of $1",Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P11,Q7_explain,"$3 for a task that takes 35 minutes with content that needs you to be very attentive, is too low.",Compensation & Economic Security,General compensation issues,,N,Manually coded
-P11,Q11_describe,They provide very detailed instructions and how you can contact researchers to get better feedback.,Transparency & QA,General transparency issues,feedback_issues,N,Manually coded
+P11,Q11_describe,They provide very detailed instructions and how you can contact researchers to get better feedback.,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P11,Q12_challenges,The payment is just not fair for the amount of work I do.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P11,Q13_improvements,The pay for tasks should be reconsidered.,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P12,Q7_explain,Always could get more,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P12,Q9_followup,Time out,Task Design & Time Pressure,Task design challenges,time_constraints,N,Systematically coded
 P12,Q10_effects,Triggering and made me feel sad,Content Exposure & Emotional Load,,,N,Systematically coded
-P12,Q11_describe,Payment seems poor at timed,Transparency & QA,General transparency issues,,N,Manually coded
+P12,Q11_describe,Payment seems poor at timed,Compensation & Economic Security,Low pay rates,,N,Manually coded
 P12,Q12_challenges,Platform doesn’t care if something times out and your spend hours doing tasks,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
 P12,Q13_improvements,An online bot to help,Support & Dispute Resolution,Support system challenges,help_available,N,Manually coded
 P13,Q7_explain,stable,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P13,Q12_challenges,sometimes stressful,Content Exposure & Emotional Load,Mental and emotional impact,work_stress,N,Manually coded
 P13,Q13_improvements,no idea,Compensation & Economic Security,General compensation issues,,N,Manually coded
-P14,Q7_explain,The tasks in Mechanical Turk is not fairly compensated.,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
+P14,Q7_explain,The tasks in Mechanical Turk is not fairly compensated.,Compensation & Economic Security,Effort-pay mismatch,unfair_pay,N,Manually coded
 P14,Q10_effects,"I don't remember, it has been a while.",Content Exposure & Emotional Load,,,N,Systematically coded
 P14,Q12_challenges,"Unfair payment, underestimated required time",Compensation & Economic Security,Effort-pay mismatch,unfair_pay,N,Manually coded
-P14,Q13_improvements,"For Mechanical Turk, there should be a minimum payment per hour as in Prolific to unsure fairness.",Compensation & Economic Security,Positive compensation experience,,N,Manually coded
-P15,Q7_explain,For beer money,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P14,Q13_improvements,"For Mechanical Turk, there should be a minimum payment per hour as in Prolific to unsure fairness.",Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
+P15,Q7_explain,For beer money,Compensation & Economic Security,Low pay rates,,N,Manually coded
 P15,Q11_describe,Prolific always paid well and on time,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P15,Q12_challenges,I did not have any ethical concern,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P15,Q13_improvements,Get more jobs of that type,Compensation & Economic Security,General compensation issues,,N,Manually coded
@@ -73,13 +73,13 @@ P16,Q7_explain,i feel the amount of time spent for my output to be quality is no
 P16,Q11_describe,Most of the platforms are very transparent as regarding the pay per hour. we just choose to work with that regardless,Transparency & QA,Positive transparency experience,transparency_positive,Y,Manually coded
 P16,Q12_challenges,violation of regulatory rules,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P16,Q13_improvements,Obviously the renumeration because the amount paid often make people rush though the task thus producing substandard work.,Compensation & Economic Security,Effort-pay mismatch,,Y,Manually coded
-P17,Q7_explain,Many tasks takes long durtion to complete and does pay less amount than needed,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P17,Q7_explain,Many tasks takes long durtion to complete and does pay less amount than needed,Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch,N,Manually coded
 P17,Q10_effects,Violent content nudity,Content Exposure & Emotional Load,Disturbing content exposure,violent_content,N,Systematically coded
 P17,Q11_describe,The studies provide clear instructions on the participation requirements and creteria,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P17,Q12_challenges,Technical issues in the studies and errors by developers,Platform Reliability & Access,Technical reliability issues,technical_issues; system_errors,N,Manually coded
-P17,Q13_improvements,Compensation should be correspond to duration of tasks,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P17,Q13_improvements,Compensation should be correspond to duration of tasks,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P18,Q7_explain,I feel that it requires more focus and time therefore it should be compensated accordingly,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
-P18,Q9_followup,"Researcher asked a trick question and I was rejected for that, tried communicating and appealing and no feedback on that",Transparency & QA,General transparency issues,feedback_issues,N,Systematically coded
+P18,Q9_followup,"Researcher asked a trick question and I was rejected for that, tried communicating and appealing and no feedback on that",Support & Dispute Resolution,Appeal process issues,appeal_process,N,Systematically coded
 P18,Q10_effects,I have not,Content Exposure & Emotional Load,,,N,Systematically coded
 P18,Q11_describe,The study rules and method of compensation i quite clear just sometimes a study is underpaying,Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
 P18,Q12_challenges,It is sometimes mentally challenging,Content Exposure & Emotional Load,Mental and emotional impact,mental_impact,N,Manually coded
@@ -97,7 +97,7 @@ P20,Q13_improvements,notify every time tasks are available,Task Design & Time Pr
 P21,Q7_explain,I feel the payment is very fair for the time I spend doing the study,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
 P21,Q10_effects,"people who are injured or dirty places, but it didn't affect me at all",Content Exposure & Emotional Load,,,N,Systematically coded
 P21,Q11_describe,before starting the study everything is explained and how my data will be used and I always have an option to choose if I want my data to be used,Transparency & QA,Data usage transparency,,Y,Manually coded
-P21,Q12_challenges,By not receiving the same study anymore,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P21,Q12_challenges,By not receiving the same study anymore,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
 P21,Q13_improvements,adding multiple submission and add more places to the study,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P22,Q7_explain,The payment mostly matches the amount of time needed on the task.,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
 P22,Q9_followup,A task was timed out due to connectivity issues and I was not compensated due to the fact that the task had a time allocation.,Task Design & Time Pressure,Task design challenges,time_constraints,N,Systematically coded
