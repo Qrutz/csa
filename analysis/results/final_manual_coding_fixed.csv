@@ -14,7 +14,7 @@ P03,Q9_followup,the survey was unfairly rejecting participants based on attentio
 P03,Q10_effects,"I was warned, the survey included discussions of drug use and had a link to a support line",Content Exposure & Emotional Load,Support system challenges,support_issues,N,Systematically coded
 P03,Q11_describe,some of the reviews take a very long time to process very short tasks,Transparency & QA,General transparency issues,,N,Manually coded
 P03,Q12_challenges,it is sometimes unclear what the data is being used for,Transparency & QA,Data usage transparency,unclear_processes; clear_processes,N,Manually coded
-P03,Q13_improvements,"being sent links to the final or published study, in academic cases. if surveys are helping corporations, it should be clear which ones.",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
+P03,Q13_improvements,"being sent links to the final or published study, in academic cases. if surveys are helping corporations, it should be clear which ones.",Transparency & QA,Data usage transparency,unclear_processes,Y,Manually coded
 P04,Q7_explain,it is a good pay,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P04,Q9_followup,i had technical issues on my end.,Platform Reliability & Access,Technical reliability issues,technical_issues,N,Systematically coded
 P04,Q10_effects,graphic .The platform also gave warnings,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings,N,Systematically coded
