@@ -1,0 +1,52 @@
+Domain,Subtheme,Code,Definition
+Compensation & Economic Security,Effort-pay mismatch,below_minimum_wage,Pay below minimum wage when factoring in time
+Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch,Work effort not reflected in payment
+Compensation & Economic Security,Effort-pay mismatch,time_effort_reflection,Payment should reflect actual time and effort
+Compensation & Economic Security,Effort-pay mismatch,unfair_pay,Unfair payment practices
+Compensation & Economic Security,Effort-pay mismatch,unpaid_work,Unpaid work requirements
+Compensation & Economic Security,Effort-pay mismatch,unpaid_qualifications,Unpaid qualification requirements
+Compensation & Economic Security,Low pay rates,below_minimum_wage,Pay rates below minimum wage
+Compensation & Economic Security,Low pay rates,low_pay,Generally low payment rates
+Compensation & Economic Security,Payment volatility,inconsistent_payment,Inconsistent or unpredictable payment
+Compensation & Economic Security,Payment volatility,volatile_income,Income volatility and instability
+Compensation & Economic Security,Positive compensation experience,stable_fair_pay,Stable and fair payment
+Compensation & Economic Security,Positive compensation experience,time_effort_reflection,Payment reflects time and effort
+Compensation & Economic Security,General compensation issues,general_compensation,General compensation concerns
+Task Design & Time Pressure,Task design challenges,time_constraints,Time pressure and constraints
+Task Design & Time Pressure,Task design challenges,work_pressure,Work pressure and stress
+Task Design & Time Pressure,Task design challenges,instruction_issues,Instruction clarity problems
+Task Design & Time Pressure,Task design challenges,task_complexity,Task complexity issues
+Task Design & Time Pressure,Task design challenges,guideline_issues,Guideline and instruction problems
+Task Design & Time Pressure,Time pressure and constraints,time_constraints,Time pressure and constraints
+Task Design & Time Pressure,Instruction clarity issues,unclear_processes,Unclear processes and instructions
+Task Design & Time Pressure,Instruction clarity issues,instruction_issues,Instruction clarity problems
+Transparency & QA,General transparency issues,unclear_processes,Unclear processes and procedures
+Transparency & QA,General transparency issues,feedback_issues,Feedback and communication problems
+Transparency & QA,General transparency issues,black_box_process,Black box processes
+Transparency & QA,General transparency issues,clear_processes,Clear and transparent processes
+Transparency & QA,Opaque rejection processes,rejection_issues,Task rejection problems
+Transparency & QA,Opaque rejection processes,unclear_criteria,Unclear acceptance criteria
+Transparency & QA,Rating system issues,rating_issues,Rating system problems
+Transparency & QA,Rating system issues,unclear_criteria,Unclear rating criteria
+Transparency & QA,Data usage transparency,unclear_processes,Unclear data usage processes
+Transparency & QA,Data usage transparency,clear_processes,Clear data usage processes
+Transparency & QA,Positive transparency experience,clear_processes,Clear and transparent processes
+Transparency & QA,Positive transparency experience,transparency_positive,Positive transparency experience
+Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content,Exposure to disturbing content
+Content Exposure & Emotional Load,Disturbing content exposure,violent_content,Exposure to violent content
+Content Exposure & Emotional Load,Disturbing content exposure,hate_speech,Exposure to hate speech
+Content Exposure & Emotional Load,Disturbing content exposure,content_warnings,Content warnings provided
+Content Exposure & Emotional Load,Disturbing content exposure,support_available,Support available for content exposure
+Content Exposure & Emotional Load,Mental and emotional impact,mental_impact,Mental health impact
+Content Exposure & Emotional Load,Mental and emotional impact,work_stress,Work-related stress
+Content Exposure & Emotional Load,Mental and emotional impact,emotionally_draining,Emotionally draining work
+Content Exposure & Emotional Load,Positive content experience,positive_content,Positive content experience
+Content Exposure & Emotional Load,Ethical concerns,ethical_concerns,Ethical concerns about content
+Content Exposure & Emotional Load,Support system challenges,support_issues,Support system problems
+Platform Reliability & Access,Technical reliability issues,technical_issues,Technical problems and issues
+Platform Reliability & Access,Technical reliability issues,system_errors,System errors and failures
+Platform Reliability & Access,Platform access problems,platform_issues,Platform access problems
+Support & Dispute Resolution,Appeal process issues,appeal_process,Appeal process problems
+Support & Dispute Resolution,Support system challenges,support_issues,Support system problems
+Support & Dispute Resolution,Support system challenges,help_available,Help and support available
+Support & Dispute Resolution,Communication problems,communication_issues,Communication problems
