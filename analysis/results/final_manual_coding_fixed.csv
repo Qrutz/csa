@@ -98,13 +98,13 @@ P21,Q7_explain,I feel the payment is very fair for the time I spend doing the st
 P21,Q10_effects,"people who are injured or dirty places, but it didn't affect me at all",Content Exposure & Emotional Load,,,N,Systematically coded
 P21,Q11_describe,before starting the study everything is explained and how my data will be used and I always have an option to choose if I want my data to be used,Transparency & QA,Data usage transparency,,Y,Manually coded
 P21,Q12_challenges,By not receiving the same study anymore,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
-P21,Q13_improvements,adding multiple submission and add more places to the study,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P21,Q13_improvements,adding multiple submission and add more places to the study,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
 P22,Q7_explain,The payment mostly matches the amount of time needed on the task.,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
 P22,Q9_followup,A task was timed out due to connectivity issues and I was not compensated due to the fact that the task had a time allocation.,Task Design & Time Pressure,Task design challenges,time_constraints,N,Systematically coded
 P22,Q10_effects,Graphic and Offensive content. The platform gave warnings. It did not affect me in anyway because I know it was for research purposes.,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings,N,Systematically coded
 P22,Q11_describe,I have not encountered any bad experience. some of the tasks are underpaying and most pay a fair amount for the work required.,Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
 P22,Q12_challenges,Time consuming and underpaying. Repetitive questions.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
-P22,Q13_improvements,Better compensation for longer tasks.,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P22,Q13_improvements,Better compensation for longer tasks.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P23,Q7_explain,The payment depends on the type of tasks and the time required to do them and the tasks are fairly good and the payment is appropriate,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,Y,Manually coded
 P23,Q9_followup,The researcher said that my data was missing and I had to return the study and that meant that I would not get paid for the work. I did not appeal,Support & Dispute Resolution,Appeal process issues,appeal_process,N,Systematically coded
 P23,Q10_effects,It was pornographic and the platform had already given warning,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings,N,Systematically coded
@@ -112,22 +112,22 @@ P23,Q11_describe,They are not clear on task acceptance because sometimes you get
 P23,Q12_challenges,Sometimes the task given is too long and you have to finish it in one go,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
 P23,Q13_improvements,Some researchers take too long to pay for the work done. payment should be done at most in 7 days.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P24,Q7_explain,I feels like the time I spend on surveys is worth it,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
-P24,Q9_followup,The reason for being rejected was that I took the survey quickly.,Support & Dispute Resolution,,,N,Systematically coded
-P24,Q10_effects,Xrated Photos,Content Exposure & Emotional Load,,,N,Systematically coded
+P24,Q9_followup,The reason for being rejected was that I took the survey quickly.,Support & Dispute Resolution,Appeal process issues,appeal_process,N,Systematically coded
+P24,Q10_effects,Xrated Photos,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content,N,Systematically coded
 P24,Q11_describe,"The platforms has always paid me and if the survey doesn't pay within 22 days, the platform pays automatically.",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
 P24,Q13_improvements,I feel like Prolific is perfect.,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P25,Q7_explain,not sure what is the standard across for payment.,Compensation & Economic Security,General compensation issues,,N,Manually coded
 P25,Q9_followup,"The task was very long, and after I had finished, it was rejected on the basis that it did not reach the required number of corrections or right answers. That was unfair to me because I spent a lot of time, and the task was very tedious.",Compensation & Economic Security,Effort-pay mismatch,unfair_pay,Y,Systematically coded
-P25,Q10_effects,"So far, I haven't encountered harmful or disturbing content.",Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content,N,Systematically coded
+P25,Q10_effects,"So far, I haven't encountered harmful or disturbing content.",Content Exposure & Emotional Load,Positive content experience,,N,Systematically coded
 P25,Q11_describe,"All tasks are cleared before performance, so that you have a chance to reject or accept the task.",Transparency & QA,Positive transparency experience,clear_processes,N,Manually coded
-P25,Q12_challenges,Nothing much currently. Some can be tedious for a small amount of payment.,Compensation & Economic Security,General compensation issues,,N,Manually coded
-P25,Q13_improvements,more payment would be appreciated.,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P25,Q12_challenges,Nothing much currently. Some can be tedious for a small amount of payment.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
+P25,Q13_improvements,more payment would be appreciated.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P26,Q7_explain,Some tasks require a lot lot of effort and time but pay vey little,Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch; time_effort_reflection,N,Manually coded
-P26,Q9_followup,the researcher rejected my submission and did not respond to my messages,Support & Dispute Resolution,,,N,Systematically coded
+P26,Q9_followup,the researcher rejected my submission and did not respond to my messages,Support & Dispute Resolution,Appeal process issues,appeal_process,N,Systematically coded
 P26,Q10_effects,The content was visually disturbing. The were some pornographic images,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content,N,Systematically coded
 P26,Q11_describe,One can get a rejection and never get to know why,Transparency & QA,Opaque rejection processes,rejection_issues,N,Manually coded
 P26,Q12_challenges,Some researchers can give you a very long task but give you a very short time to complete it,Task Design & Time Pressure,Task design challenges,time_constraints,N,Manually coded
-P26,Q13_improvements,There should be no disturbing content,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P26,Q13_improvements,There should be no disturbing content,Content Exposure & Emotional Load,Disturbing content exposure,,N,Manually coded
 P27,Q7_explain,I BELIEVE I;M FAIRLY COMPENSATED DUE TO THE AMOUNT OF TIME I SPEND ON EACH PROJECT,Compensation & Economic Security,Positive compensation experience,time_effort_reflection,N,Manually coded
 P27,Q11_describe,"I WOULD MOSTLY FOCUS ON PROLIFIC, IT IS VERY TRANSPARENT WHEN IT COMES TO COMPENSATION, LIKE YOU TAKE ON A STUDY KNOWING VERY WELL HOW MUCH YOU'RE GOING TO GET PAID",Transparency & QA,Positive transparency experience,transparency_positive,Y,Manually coded
 P27,Q12_challenges,HONESTLY THERE ARE NONE,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
@@ -139,7 +139,7 @@ P28,Q9_followup,"Only on a few occasions I have been rejected, but most of the t
 
 The feedback is quite appalling, sometimes the reasons don't even make sense. Like they approve 95% but the one task is not approved.
 
-I don't bother appealing, as I accept as part of the job. But if the platform rejects too many time, I will leave the platform and not do it again.",Transparency & QA,General transparency issues,feedback_issues,N,Systematically coded
+I don't bother appealing, as I accept as part of the job. But if the platform rejects too many time, I will leave the platform and not do it again.",Transparency & QA,Opaque rejection processes,rejection_issues,N,Systematically coded
 P28,Q10_effects,"I was moderating comments and they were very disturbing and colourful and sometimes I felt illegal.
 
 Mentally/Emotionally initially can be quite distressing but overtime I become numb to the affects and accepted that was my job. 
@@ -153,7 +153,7 @@ Unlike a real job, someone would advise you at least you did this wrong or you c
 
 I simply take it that, you either understand the work or you don't. 
 
-But you know it is what it is I guess.",Transparency & QA,Positive transparency experience,feedback_issues; transparency_positive,Y,Manually coded
+But you know it is what it is I guess.",Transparency & QA,General transparency issues,feedback_issues,Y,Manually coded
 P28,Q12_challenges,"I think the biggest strain is when projects or tasks are released, there is no set time. You feel that you have to be online long enough in order to get your piece of the pie.
 
 Its like a competition with other fellow workers. Which can play havoc to sleep.
@@ -161,33 +161,33 @@ Its like a competition with other fellow workers. Which can play havoc to sleep.
 Also, the paranoid of been banned or shadow banned when your dashboard has no work. And they is no recourse on why, or is it because there is no work  and it is rather annoying especially if you need the work to help with finances.",Task Design & Time Pressure,Task design challenges,time_constraints,Y,Manually coded
 P28,Q13_improvements,"Treat us like workers, give us feedback that is helpful, if we do good work give us promotions and offer some kind of community.
 
-Don't treat us like a number.",Transparency & QA,General transparency issues,feedback_issues,Y,Manually coded
+Don't treat us like a number.",Support & Dispute Resolution,Support system challenges,help_available,Y,Manually coded
 P29,Q7_explain,unpredictable,Compensation & Economic Security,Payment volatility,inconsistent_payment,N,Manually coded
 P29,Q9_followup,"I got an error message at the end of the study during submission, then proceeded to submit without code because I wanted to be compensated if not fully partly for my time, but the researcher went ahead to reject the study without any form of communication even after prompting them about the technical issue.",Platform Reliability & Access,Technical reliability issues,technical_issues; system_errors,N,Systematically coded
-P29,Q10_effects,"I studied an image that was a riot of neon colors vivid pinks, bright blues, and sharp yellows—blending into a mildly overwhelming pattern. A colleague had warned me it might strain the eyes, but the effect was minimal, causing only slight discomfort. My eyes adjusted quickly, and I continued my analysis without much trouble. The platform didn’t provide specific warnings or filters for this image. Overall, the visual overload was non-significant and didn’t impact my work.",Content Exposure & Emotional Load,Platform access problems,platform_issues,N,Systematically coded
-P29,Q11_describe,"The platform clearly outlined task acceptance, with intuitive design choices, transparent rating systems, and straightforward payment rules, making the experience seamless",Transparency & QA,Rating system issues,rating_issues; transparency_positive; clear_processes,Y,Manually coded
+P29,Q10_effects,"I studied an image that was a riot of neon colors vivid pinks, bright blues, and sharp yellows—blending into a mildly overwhelming pattern. A colleague had warned me it might strain the eyes, but the effect was minimal, causing only slight discomfort. My eyes adjusted quickly, and I continued my analysis without much trouble. The platform didn't provide specific warnings or filters for this image. Overall, the visual overload was non-significant and didn't impact my work.",Content Exposure & Emotional Load,Disturbing content exposure,content_warnings,N,Systematically coded
+P29,Q11_describe,"The platform clearly outlined task acceptance, with intuitive design choices, transparent rating systems, and straightforward payment rules, making the experience seamless",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
 P29,Q12_challenges,"As a data annotator, I’ve encountered minor challenges like vague task guidelines, which can make accurate image analysis tricky but manageable. Ethically, the risk of emotional strain from potentially disturbing content, like graphic images, is a concern, though platform warnings help mitigate this. Fairness in compensation and avoiding bias in subjective annotations remain critical issues, requiring clear rules and support.",Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings; support_available,Y,Manually coded
 P29,Q13_improvements,"To make data labeling fairer, platforms should offer transparent, competitive pay tied to task complexity and clear guidelines to minimize errors and frustration. Providing content warnings, opt-out options for disturbing material, and mental health support would enhance sustainability and respect for workers. Open feedback channels and anti-bias training with diverse teams would ensure equitable, high-quality outcomes.",Compensation & Economic Security,Effort-pay mismatch,,Y,Manually coded
 P30,Q7_explain,For some tasks one may take much more time to finish the task because it will be longer than the time given,Compensation & Economic Security,Effort-pay mismatch,,Y,Manually coded
-P30,Q9_followup,The researcher said that i had given low effort in the task and ended up rejecting my submission,Support & Dispute Resolution,,,N,Systematically coded
+P30,Q9_followup,The researcher said that i had given low effort in the task and ended up rejecting my submission,Support & Dispute Resolution,Appeal process issues,appeal_process,N,Systematically coded
 P30,Q10_effects,I once did a study that was emotionally  disturbing and there was no warning given beforehand. I withdrew from the study,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings,Y,Systematically coded
-P30,Q11_describe,"They are not clear on task acceptance. some researchers can just choose to reject the submission and them give you a lame reason like "" the response was automatically flagged""",Transparency & QA,Positive transparency experience,clear_processes,Y,Manually coded
+P30,Q11_describe,"They are not clear on task acceptance. some researchers can just choose to reject the submission and them give you a lame reason like "" the response was automatically flagged""",Transparency & QA,Opaque rejection processes,rejection_issues,Y,Manually coded
 P30,Q12_challenges,Some tasks can cause emotional strain and yet there wont be any further steps to solve the problem,Content Exposure & Emotional Load,Mental and emotional impact,,N,Manually coded
-P30,Q13_improvements,For some tasks they need to pay fairly because they are too long,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
-P31,Q7_explain,Some tasks are too long compared to the amount that is being paid for it.,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P30,Q13_improvements,For some tasks they need to pay fairly because they are too long,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
+P31,Q7_explain,Some tasks are too long compared to the amount that is being paid for it.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
 P31,Q9_followup,The researcher said that I had exceeded the average time to finish the study hence rejecting it. I simply asked to return it and I was never paid for it,Task Design & Time Pressure,Task design challenges,time_constraints,N,Systematically coded
 P31,Q10_effects,Sometimes I do get tasks that have pornographic content and the are warnings given before you can begin the study,Content Exposure & Emotional Load,Disturbing content exposure,disturbing_content; content_warnings,N,Systematically coded
 P31,Q11_describe,The platform is transparent on how the researchers are paying us and the expected hourly rates,Transparency & QA,Positive transparency experience,transparency_positive,N,Manually coded
-P31,Q12_challenges,Some researchers just reject submissions without giving a clear reason for it and they wont be available even when you try to reach them,Compensation & Economic Security,General compensation issues,,Y,Manually coded
+P31,Q12_challenges,Some researchers just reject submissions without giving a clear reason for it and they wont be available even when you try to reach them,Transparency & QA,Opaque rejection processes,rejection_issues,Y,Manually coded
 P31,Q13_improvements,The researchers should improve on communication,Support & Dispute Resolution,Communication problems,communication_issues,N,Manually coded
 P32,Q7_explain,Pretty consistent generally,Compensation & Economic Security,Positive compensation experience,stable_fair_pay,N,Manually coded
 P32,Q12_challenges,Sometimes the instructions can be a little unclear,Transparency & QA,Instruction clarity issues,unclear_processes,N,Manually coded
-P32,Q13_improvements,I wish the minimum pay rates would be increased,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P32,Q13_improvements,I wish the minimum pay rates would be increased,Compensation & Economic Security,Low pay rates,,N,Manually coded
 P33,Q7_explain,"It depends, but sometimes what you get isn't worth the time and effort required.",Compensation & Economic Security,Effort-pay mismatch,time_effort_reflection,N,Manually coded
 P33,Q11_describe,Most hits aren't clear how they are reviewed or what it is used for.,Transparency & QA,Data usage transparency,unclear_processes,N,Manually coded
 P33,Q12_challenges,Errors in the content that aren't covered leaving me unsure how to rate them or make it impossible to complete the job.,Platform Reliability & Access,Technical reliability issues,system_errors,Y,Manually coded
-P33,Q13_improvements,I think better pay and being more responsive to messages would be helpful.,Compensation & Economic Security,General compensation issues,,N,Manually coded
-P34,Q7_explain,This instability makes it difficult to rely on data labeling as a consistent source of income.,Compensation & Economic Security,General compensation issues,,N,Manually coded
+P33,Q13_improvements,I think better pay and being more responsive to messages would be helpful.,Compensation & Economic Security,Effort-pay mismatch,,N,Manually coded
+P34,Q7_explain,This instability makes it difficult to rely on data labeling as a consistent source of income.,Compensation & Economic Security,Payment volatility,inconsistent_payment,N,Manually coded
 P34,Q12_challenges,no,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P34,Q13_improvements,no,Compensation & Economic Security,Positive compensation experience,,N,Manually coded
 P35,Q7_explain,"Why or why not?
