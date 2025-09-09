@@ -1,0 +1,121 @@
+PID,QuestionID,Text,Domain,Subtheme,Codes,QuoteCandidate
+P01,Q13_improvements,"Fair, transparent, and stable payment that reflects the actual time and effort involved is essential. Clear, consistent guidelines and honest feedback on task performance would help workers improve and feel valued. Platforms should provide better support for mental health, including warnings and opt-out options for disturbing content. Improved communication channels and an effective appeals process for rejected tasks would also increase trust and fairness.",Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch; stable_fair_pay; time_effort_reflection,Y
+P02,Q13_improvements,Already the platform is fair,Compensation & Economic Security,Positive compensation experience,,N
+P03,Q13_improvements,"being sent links to the final or published study, in academic cases. if surveys are helping corporations, it should be clear which ones.",Transparency & QA,Data usage transparency,unclear_processes,Y
+P04,Q13_improvements,increasing the amount of pay,Compensation & Economic Security,General compensation issues,,N
+P05,Q13_improvements,"TRASPARENT RESERCHERS, BECAUSE SOME RESEARCHERS CHOOSE TO COLLECT DATA AND REJECT SUBMISSIONS AND NOT PAY",Transparency & QA,Data usage transparency,unclear_processes,Y
+P06,Q13_improvements,better pay,Compensation & Economic Security,General compensation issues,,N
+P07,Q13_improvements,More consistent work opportunities and higher pay are the only things I can think of. Communication of the rules has always been generally good and transparent.,Compensation & Economic Security,Effort-pay mismatch,,Y
+P08,Q13_improvements,"Work to be made available at times when I am free and to be completed at my leisure with a set deadline, rather than needed to be completed as soon as it is made available otherwise it will not be there later.",Task Design & Time Pressure,Task design challenges,time_constraints,Y
+P09,Q13_improvements,Platforms should ensure wages are proportional to task difficulty and time required. A tiered payment system based on complexity would help,Compensation & Economic Security,Effort-pay mismatch,,Y
+P10,Q13_improvements,"i need fair payment, the other time i got 70 images to annotate for a fee of $1",Compensation & Economic Security,Effort-pay mismatch,,N
+P11,Q13_improvements,The pay for tasks should be reconsidered.,Compensation & Economic Security,General compensation issues,,N
+P12,Q13_improvements,An online bot to help,Support & Dispute Resolution,Support system challenges,help_available,N
+P13,Q13_improvements,no idea,Compensation & Economic Security,General compensation issues,,N
+P14,Q13_improvements,"For Mechanical Turk, there should be a minimum payment per hour as in Prolific to unsure fairness.",Compensation & Economic Security,Effort-pay mismatch,,N
+P15,Q13_improvements,Get more jobs of that type,Compensation & Economic Security,General compensation issues,,N
+P16,Q13_improvements,Obviously the renumeration because the amount paid often make people rush though the task thus producing substandard work.,Compensation & Economic Security,Effort-pay mismatch,,Y
+P17,Q13_improvements,Compensation should be correspond to duration of tasks,Compensation & Economic Security,Effort-pay mismatch,,N
+P18,Q13_improvements,perhaps fair compensation and more time added to complete,Compensation & Economic Security,Effort-pay mismatch,,N
+P19,Q13_improvements,"higher pay rates, better support channels and more communication about how our work contributes would make data labeling fair",Compensation & Economic Security,Effort-pay mismatch,,Y
+P20,Q13_improvements,notify every time tasks are available,Task Design & Time Pressure,Task design challenges,time_constraints,N
+P21,Q13_improvements,adding multiple submission and add more places to the study,Task Design & Time Pressure,Task design challenges,time_constraints,N
+P22,Q13_improvements,Better compensation for longer tasks.,Compensation & Economic Security,Effort-pay mismatch,,N
+P23,Q13_improvements,Some researchers take too long to pay for the work done. payment should be done at most in 7 days.,Compensation & Economic Security,Effort-pay mismatch,,N
+P24,Q13_improvements,I feel like Prolific is perfect.,Compensation & Economic Security,Positive compensation experience,,N
+P25,Q13_improvements,more payment would be appreciated.,Compensation & Economic Security,Effort-pay mismatch,,N
+P26,Q13_improvements,There should be no disturbing content,Content Exposure & Emotional Load,Disturbing content exposure,,N
+P27,Q13_improvements,I BELIEVE INTERACTIONS BETWEEN RESEARCHERS AND PARTICIPANTS WOULD BE VERY HELPFUL,Support & Dispute Resolution,Support system challenges,help_available,N
+P28,Q13_improvements,"Treat us like workers, give us feedback that is helpful, if we do good work give us promotions and offer some kind of community.
+
+Don't treat us like a number.",Support & Dispute Resolution,Support system challenges,help_available,Y
+P29,Q13_improvements,"To make data labeling fairer, platforms should offer transparent, competitive pay tied to task complexity and clear guidelines to minimize errors and frustration. Providing content warnings, opt-out options for disturbing material, and mental health support would enhance sustainability and respect for workers. Open feedback channels and anti-bias training with diverse teams would ensure equitable, high-quality outcomes.",Compensation & Economic Security,Effort-pay mismatch,,Y
+P30,Q13_improvements,For some tasks they need to pay fairly because they are too long,Compensation & Economic Security,Effort-pay mismatch,,N
+P31,Q13_improvements,The researchers should improve on communication,Support & Dispute Resolution,Communication problems,communication_issues,N
+P32,Q13_improvements,I wish the minimum pay rates would be increased,Compensation & Economic Security,Low pay rates,,N
+P33,Q13_improvements,I think better pay and being more responsive to messages would be helpful.,Compensation & Economic Security,Effort-pay mismatch,,N
+P34,Q13_improvements,no,Compensation & Economic Security,Positive compensation experience,,N
+P35,Q13_improvements,"Clearer Guidelines and Support:
+
+Platforms should offer more transparent and consistent rules for labeling tasks, with examples to clarify ambiguous cases.
+
+Implementing quality checks or real-time feedback would help annotators understand where they may be going wrong and improve without feeling lost.
+
+Fair Compensation:
+
+Pay should be better aligned with the complexity and emotional toll of the work. Tasks requiring more time or cognitive effort should be paid more.
+
+Instead of paying per task, offering hourly wages with a minimum rate could help make compensation more stable.
+
+Offering bonuses for accurate or efficient work would also motivate high-quality performance while providing a fair pay structure.
+
+Mental Health Resources:
+
+Platforms should implement mental health support for workers, such as counseling or therapy services, especially for those dealing with disturbing content.
+
+There could be warnings or filters for emotionally taxing tasks, and the option to “opt out” of certain types of content without penalty.
+
+Transparency and Communication:
+
+Platforms should provide more transparency about how tasks are used and how annotators’ work contributes to the bigger picture. Knowing the impact of their work can help people feel more valued.
+
+Communication with workers could be more open. If a task is rejected or a mistake happens, workers should be given clear feedback and have the chance to appeal if necessary.
+
+Workplace Community:
+
+Fostering a community of annotators, perhaps through forums or chat groups, could help workers share insights, vent frustrations, and get tips. This would help reduce the isolation of remote, freelance data labeling jobs.
+
+Better Task Selection:
+
+Giving workers more choice over what kind of tasks they take on—perhaps based on the content or the complexity—would allow them to select work they feel more comfortable with or are more skilled at.",Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch; stable_fair_pay; time_effort_reflection,Y
+P36,Q13_improvements,"lear guidelines, fair and timely pay, better support for dealing with tough content, and a simple appeal process would make data labeling work fairer and more respectful. Improved communication and transparency would also help.",Transparency & QA,General transparency issues,,Y
+P37,Q13_improvements,"Clearer Guidelines and Support:
+
+Platforms should offer more transparent and consistent rules for labeling tasks, with examples to clarify ambiguous cases.
+
+Implementing quality checks or real-time feedback would help annotators understand where they may be going wrong and improve without feeling lost.
+
+Fair Compensation:
+
+Pay should be better aligned with the complexity and emotional toll of the work. Tasks requiring more time or cognitive effort should be paid more.
+
+Instead of paying per task, offering hourly wages with a minimum rate could help make compensation more stable.
+
+Offering bonuses for accurate or efficient work would also motivate high-quality performance while providing a fair pay structure.
+
+Mental Health Resources:
+
+Platforms should implement mental health support for workers, such as counseling or therapy services, especially for those dealing with disturbing content.
+
+There could be warnings or filters for emotionally taxing tasks, and the option to “opt out” of certain types of content without penalty.
+
+Transparency and Communication:
+
+Platforms should provide more transparency about how tasks are used and how annotators’ work contributes to the bigger picture. Knowing the impact of their work can help people feel more valued.
+
+Communication with workers could be more open. If a task is rejected or a mistake happens, workers should be given clear feedback and have the chance to appeal if necessary.
+
+Workplace Community:
+
+Fostering a community of annotators, perhaps through forums or chat groups, could help workers share insights, vent frustrations, and get tips. This would help reduce the isolation of remote, freelance data labeling jobs.
+
+Better Task Selection:
+
+Giving workers more choice over what kind of tasks they take on—perhaps based on the content or the complexity—would allow them to select work they feel more comfortable with or are more skilled at.",Compensation & Economic Security,Effort-pay mismatch,effort_pay_mismatch; stable_fair_pay; time_effort_reflection,Y
+P38,Q13_improvements,"Platforms should be more transparent about how work is reviewed and pay is determined. Clear, timely feedback when tasks are rejected would help us improve and feel valued.",Transparency & QA,General transparency issues,,Y
+P39,Q13_improvements,Implementing a transparent and fair payment structure th,Compensation & Economic Security,Positive compensation experience,,N
+P40,Q13_improvements,"ensuring fair and consistent pay, providing clear and consistent instructions, offering opportunities for skill development, and promoting transparency in the work process",Compensation & Economic Security,Effort-pay mismatch,,Y
+P41,Q13_improvements,feel free to suggest  no need changes,Compensation & Economic Security,Positive compensation experience,,N
+P42,Q13_improvements,none,Compensation & Economic Security,Positive compensation experience,,N
+P43,Q13_improvements,"Data labeling work would be more fair and sustainable if platforms provided clearer guidelines, consistent feedback, and guaranteed minimum pay for time spent—even on rejected tasks. Improved communication, mental health support, and greater transparency around how annotations are used would also help workers feel more respected and valued.",Transparency & QA,General transparency issues,,Y
+P44,Q13_improvements,"I think pay rates should reflect the actual time and skill required, not just per-task completion. Show clear, upfront pay estimates based on average completion time, and ensure workers consistently meet or exceed minimum wage in their region.",Compensation & Economic Security,Low pay rates,below_minimum_wage,Y
+P45,Q13_improvements,"Better data governance and bias mitigation
+
+Independent bias audits and reporting on how labeling choices affect downstream models.
+Tools to adjust or customize labeling for diversity considerations (e.g., language/region variants).
+Clear expectations about how labels are used and how disagreements are resolved.",Content Exposure & Emotional Load,Ethical concerns,,Y
+P46,Q13_improvements,"Clear instructions, fair pay, consistent feedback, and better support for sensitive tasks.",Transparency & QA,General transparency issues,,N
+P47,Q13_improvements,"To make data labeling more fair and sustainable, platforms could offer clearer instructions, fair minimum pay rates, transparent rejection reasons, and better support channels for disputes.",Transparency & QA,General transparency issues,,Y
+P48,Q13_improvements,"Clear rules, fair pay, and better support.",Transparency & QA,General transparency issues,,N
+P49,Q13_improvements,"Fair pay, clear rules, better support.",Transparency & QA,General transparency issues,,N
+P50,Q13_improvements,COMMUNICATION,Support & Dispute Resolution,Communication problems,communication_issues,N
