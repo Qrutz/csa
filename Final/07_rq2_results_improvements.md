@@ -13,7 +13,7 @@ Analysis of Q13 improvement suggestions from 50 participants, focusing on what w
 | Task Design & Time Pressure | 3 | 6.0% |
 | Content Exposure & Emotional Load | 2 | 4.0% |
 
-## Subtheme Prevalence (Distinct Participants)
+## Domain Prevalence (Distinct Participants)
 
 ### Compensation & Economic Security (31 participants, 62.0%)
 | Subtheme | Participants | Percentage |
