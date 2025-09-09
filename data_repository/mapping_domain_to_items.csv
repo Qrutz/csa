@@ -1,0 +1,7 @@
+Domain,Direct Items,Context Items
+Compensation & Economic Security,Q7_explain;Q8_choice;Q12_challenges,Q13_improvements
+Task Design & Time Pressure,Q9_followup;Q12_challenges,Q11_describe;Q13_improvements
+Transparency & QA,Q11_describe;Q12_challenges,Q13_improvements
+Content Exposure & Emotional Load,Q10_effects;Q12_challenges,Q13_improvements
+Platform Reliability & Access,Q12_challenges,Q9_followup;Q10_effects;Q11_describe;Q13_improvements
+Support & Dispute Resolution,Q12_challenges,Q13_improvements

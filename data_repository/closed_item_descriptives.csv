@@ -1,0 +1,20 @@
+item,option,n,percent
+Q7,No,13,26
+Q7,Yes,32,64
+Q7,Unsure,5,10
+Q8,Partially,14,28
+Q8,Yes,13,26
+Q8,No,22,44
+Q8,Prefer not to say,1,2
+Q9,Yes,30,60
+Q9,No,20,40
+Q10,Sometimes,13,26
+Q10,Never,15,30
+Q10,Rarely,17,34
+Q10,Very often,2,4
+Q10,Often,3,6
+Q11,2,6,12
+Q11,5,14,28
+Q11,4,16,32
+Q11,3,11,22
+Q11,1,3,6

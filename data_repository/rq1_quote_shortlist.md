@@ -26,15 +26,15 @@
 
 ## Transparency & QA (44/50 participants, 88.0%)
 
-### Quote 1: General Transparency Issues (P01) - Most Common
+### Quote 1: Positive Transparency Experience (P27) - Most Common
+> "I WOULD MOSTLY FOCUS ON PROLIFIC, IT IS VERY TRANSPARENT WHEN IT COMES TO COMPENSATION, LIKE YOU TAKE ON A STUDY KNOWING VERY WELL HOW MUCH YOU'RE GOING TO GET PAID"
+
+**Codes**: transparency_positive
+
+### Quote 2: General Transparency Issues (P01)
 > "Most platforms provide minimal information about how tasks are reviewed or why certain submissions are rejected. Payment rules are vague, and sometimes task instructions are unclear or change without notice. There's little explanation about how our data is used or how quality is judged. The lack of clear feedback or appeal processes makes it feel like a black box—you're doing the work, but you don't know how it's being evaluated or where it ends up."
 
 **Codes**: unclear_processes; feedback_issues; black_box_process; clear_processes
-
-### Quote 2: Opaque Rejection Processes (P10)
-> "rating systems is not transparent, we get rejections that reseachers fail to justify"
-
-**Codes**: rejection_issues; rating_issues
 
 ### Quote 3: Opaque Rejection Processes (P26)
 > "One can get a rejection and never get to know why"
